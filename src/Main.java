@@ -34,5 +34,6 @@ public class Main {
         student1.setStudentId(1337);
         student1.changeGrade(3.2);
         System.out.println(student1.getStudentId() + " " + student1.getName() + " " + student1.seeGrade());
+        System.out.println("test1");
     }
 }
